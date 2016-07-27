@@ -1,0 +1,117 @@
+/* Inserta tu código aqui */
+/*header*/
+header {
+	background-color: #333333;
+}
+header nav ul li{
+	position: relative;
+	list-style: none;
+	float: right;
+	display: inline-block;
+}
+header nav ul a{
+	position: relative;
+	padding: 10px 15px;
+	color: #fff;
+	text-decoration: none;
+	font-size: 0.95em;
+	font-family: arial;
+	top:40px;
+}
+header nav ul a:hover{
+	background-color: gray;
+} 
+.logo{
+	float: left;
+	margin-left: 15px;
+}
+/*Section 1 y 2 */
+#section1 img {
+	width: 100%;
+	padding: 3px;
+	border: 1px solid #afafaf;
+}
+#section2 .container .row .col-9 .row img {
+	width: 100%;
+	padding: 3px;
+	border: 1px solid #afafaf;
+	margin-top: 20%;
+}
+a {
+	text-decoration: none;
+	color: #3176b5;
+	font-family: arial;
+}
+#section1 {
+	background-color: #eeeeee;
+	padding-bottom: 3%;
+}
+#section2 {
+	padding: 25px 15px;
+  margin-left: -15px;
+}
+h3 {
+	font-family: arial;
+	padding: 20px 0px;
+	display: inline-block;
+}
+.min {
+	font-size: 12px;
+}
+/*aside*/
+.col-3 p img.icons {
+	margin-right: 15px;
+	width: 13.5px;
+}
+.linea{
+	width: 260px;
+  border: 1px solid #d4d4d4;
+  margin-top: -12px;
+  margin-bottom: 29px;
+}
+.aside{
+	margin-bottom: 40px;
+}
+.aside h3{
+	font-family: Arial;
+	font-weight: 600;
+	color: #585858;
+}
+.aside p{
+	font-family: Arial;
+	font-size:16px;
+}
+.aside  a{
+	text-decoration: none;
+}
+/*footer*/
+footer {
+	height: 280px;
+	background: rgb(89,87,89);
+	text-align: center;
+	font-family: arial;
+	padding: 20px 0px;
+}
+footer .container a  {
+	text-decoration: none;
+	color: rgb(209,204,199);
+}
+.texto {
+	color: white;
+	font-size: 21px;
+	padding-top: 12px;
+	text-align: left;
+}
+.submenu {
+	margin: 40px;
+}
+.submenu a {
+	font-size: 23px;
+	padding-right: 25px;
+	font-family: arial;
+} 
+.read {
+	color: rgb(154,150,157);
+	font-size: 18px;
+	margin: 50px;
+}
